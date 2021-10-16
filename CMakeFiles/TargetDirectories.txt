@@ -1,0 +1,3 @@
+C:/Users/Mineria/Documents/prueba/CMakeFiles/kdtree_test.dir
+C:/Users/Mineria/Documents/prueba/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mineria/Documents/prueba/CMakeFiles/ZERO_CHECK.dir
